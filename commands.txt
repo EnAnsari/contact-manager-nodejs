@@ -1,0 +1,8 @@
+npm init -y
+npm install busboy express cors
+mkdir controllers models routes views db
+touch ./controllers/contactController.js ./controllers/index.js
+touch ./models/contact.js
+touch ./routes/contacts.js
+touch ./db/contacts.json
+touch index.js
