@@ -31,7 +31,7 @@ By default, the application will run on `http://localhost:8080`.
     + **View**: Renders the HTML using Pug templates.
     + **Controller**: Contains the logic for handling user requests and responses.
 
-<!-- 
+
 ## Contributing
 
 We welcome contributions to improve the project! If you'd like to contribute, please follow these steps:
@@ -39,7 +39,7 @@ We welcome contributions to improve the project! If you'd like to contribute, pl
 1. **Fork the repository** on GitHub.
 2. **Clone your fork**:
     ```bash
-    git clone https://github.com/EnAnsari/basic-authentication-mvc-nodejs
+    git clone https://github.com/EnAnsari/contact-manager-nodejs
     ```
 
 3. **Create a new branch** for your feature or bugfix:
@@ -58,7 +58,7 @@ We welcome contributions to improve the project! If you'd like to contribute, pl
     git push origin feature/your-feature
     ```
 
-6. **Submit a Pull Request** on GitHub, describing your changes and any relevant information. -->
+6. **Submit a Pull Request** on GitHub, describing your changes and any relevant information.
 
 ## Contact
 
