@@ -6,3 +6,5 @@ touch ./models/contact.js
 touch ./routes/contacts.js
 touch ./db/contacts.json
 touch index.js
+git tags
+git tag v1.0.0
